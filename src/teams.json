@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Chelsea F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+        "location": "England",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Minnesota United F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Minnesota_United_FC_%28MLS%29_Primary_logo.svg",
+        "location": "United States",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Paris Saint-Germain F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+        "location": "France",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Atletico Madrid",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+        "location": "Spain",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Manchester United F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+        "location": "England",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "F.C. Bayern Munich",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+        "location": "Germany",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "F.C. Barcelona",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+        "location": "Spain",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Juventus F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
+        "location": "Italy",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Liverpool F.C.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+        "location": "England",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Real Madrid C.F.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+        "location": "Spain",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "A.C. Milan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+        "location": "Italy",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Inter Milan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Inter_Milan.svg",
+        "location": "Italy",
+        "count": 0
+    }
+]
